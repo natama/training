@@ -1,0 +1,14 @@
+inheritance : (Pewarisan) extend: inherit ke 1 class, implement inherit ke banyak class
+
+class creature{
+	public function run(){
+		return "bebas lari";
+	}
+}
+
+class people extends creatture(){
+	
+}
+
+programing : di execute ke server
+scripting : di execute ke client
