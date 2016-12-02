@@ -21,3 +21,4 @@ untuk komit kompleks
 git commit.
 	tekan i
 	kalau sudah beres : esc -> wq -> enter
+git diff untuk cek kodingan yang berubah
