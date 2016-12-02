@@ -22,3 +22,5 @@ git commit.
 	tekan i
 	kalau sudah beres : esc -> wq -> enter
 git diff untuk cek kodingan yang berubah
+
+git checkout  untuk mengembalikan program
